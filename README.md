@@ -1,7 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=一切唯心造&fontSize=90&fontColor=#FF5733)
 
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimgit&show_icons=true&theme=radical)
+![gimgit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimgit&show_icons=true&theme=radical)
+
+
+
 <!--
 **gimgit/gimgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

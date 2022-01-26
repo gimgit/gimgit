@@ -10,6 +10,7 @@
 ![gimgit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimgit&show_icons=true&theme=radical)
 
 <a href="https://upsanddowns.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-orange?style=flat-square"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hshsnamu0@gmail.com)](mailto:hshsnamu@gmail.com) 
 </div>
 
 <!--

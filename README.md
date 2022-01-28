@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=一切唯心造&fontSize=90&) -->
-### 🗣 Hi I'm heek-yung
+### 🗣 Hi I'm heek-yung Kim
   <a href="https://upsanddowns.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-orange?style=flat-square"/></a>
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hshsnamu0@gmail.com)](mailto:hshsnamu@gmail.com) 
 

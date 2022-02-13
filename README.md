@@ -5,7 +5,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hshsnamu0@gmail.com)](mailto:hshsnamu@gmail.com) 
 
   ![gimgit's GitHub stats](https://github-readme-stats.vercel.app/api?username=gimgit&show_icons=true&theme=radical)
-
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps%3A%2F%2Fgithub.com%2Fgimgit&count_bg=%2379C83D&title_bg=%230C9E2D&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://github.com/gimgit)
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">　
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">　
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">　
